@@ -15,3 +15,6 @@ print(division_segura(num, den))
 
 
 # Es una prueba de zed simple + git nada importante la verdad xd
+
+
+# segunda prueba en zed
